@@ -12,13 +12,13 @@ The HR Analytics Dashboard is designed to provide comprehensive insights into th
 
   ## Getting Started
 1. Clone this repository to your local machine.
-2. Open the Excel file [HR Analytics Dsahboard](https://github.com/Sakshi-Rani-21/Bike-sales-dashboard-Excel/blob/161847a81f307ef5ba56086c0f48c62da048d758/Bike%20sales%20project.xlsx) to explore the dashboard.
+2. Open the Excel file [HR Analytics Dashboard](https://github.com/Sakshi-Rani-21/HR-Analytics-Dashboard-Excel/blob/0fe73d91700f8b5ee5bc39d2d1395d55839cab75/hr%20analytics%20dashboard.xlsx) explore the dashboard.
 3. Dive into the [Raw dataset](https://github.com/Sakshi-Rani-21/HR-Analytics-Dashboard-Excel/blob/cdb874b4aa8280f8640bfcaebc7ef77676da54dd/hr%20analytics%20dashboard.xlsx) to access the raw dataset
 
 ## Project Overview:
 - **Objective:** To transform raw sales data into actionable insights.
 - **Tools Used:** Microsoft Excel
-- **Skills Demonstrated:** Data cleaning, Data analysis, visualization, dashboard design.
+- **Skills Demonstrated:** Data cleaning, Data analysis, visualization, dashboard design, KPI dashboard.
   
 
 
